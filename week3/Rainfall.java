@@ -1,3 +1,5 @@
+package week3;
+
 class Rainfall {
     public static void main(String[] args) {
         double[] rainfall = {

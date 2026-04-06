@@ -1,3 +1,5 @@
+package week3;
+
 import java.util.*;
 public class In {
 private static Scanner in = new Scanner(System.in);

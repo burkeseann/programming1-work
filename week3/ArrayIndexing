@@ -1,0 +1,30 @@
+package  week3;
+
+public class ArrayIndexing {
+    public static void main(String[] args) {
+        System.out.println();
+        int[] numbers = { 100, 200, 300, 400, 500 };
+
+        // `value0` equals the sum of the values in `numbers` at indexes
+        // 0 and 2
+        int value0 = // Add your code here
+        System.out.println("value0: " + value0);
+
+        // The following variable should be equal to the product of the
+        // values in `numbers` at index 1 and 3 i.e.
+        int value1 = // Add your code here
+        System.out.println("value1: " + value1);
+
+        // `value2` equals the sum of all values in `numbers`.
+        int value2 = // Add your code here
+        System.out.println("value2: " + value2);
+
+        int length = numbers.length;
+
+        // Use the `length` variable above to index the LAST value in the
+        // array, storing it in `lastValue`.
+        int lastValue = // Add your code here
+        System.out.println("lastValue: " + lastValue);
+        System.out.println();
+    }
+}

@@ -1,3 +1,5 @@
+package week3;
+
 class Breakout {
     public static void main(String[] args) {
         int count = 3;
